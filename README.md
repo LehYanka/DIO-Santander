@@ -1,3 +1,8 @@
 # Bootcamp Santander Code Girls
 
-#### Repositório criado com o intuíto de desenvolver os desafios propostos durante as aulas, bem como anotações importantes e o compartilhamento de ideias. 
+#### <p>Repositório criado com o intuíto de:</p>
+
+ - Desenvolver os desafios propostos durante as aulas;
+ - Registrar anotações importantes;
+ - Compartilhamento ideias e códigos. 
+
